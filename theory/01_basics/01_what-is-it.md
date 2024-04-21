@@ -1,7 +1,7 @@
 # ML Basics
 
 ## What is it?
-- Is computer science branch
+- Is a computer science branch
 - Gives computers the ability to learn
 - Is known as "Software 2.0":
     ![Image1](https://firebasestorage.googleapis.com/v0/b/habacuc-javascript.appspot.com/o/images%2Fcaps%2F1.png?alt=media&token=9fe00078-0db4-4cb0-b8c6-23df7cc03e59)
